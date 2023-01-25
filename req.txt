@@ -1,0 +1,2 @@
+xlsxwriter==3.0.6
+pyhibp==4.2.0
